@@ -1,0 +1,34 @@
+{
+  "header": {
+    "internal-programs": "Internal Programs",
+    "external-programs": "External Programs",
+    "my-learning": "My Learning",
+    "news": "News",
+    "my-course": "My Course",
+    "learning-history": "My Learning History",
+    "my-certificate": "My Certificate"
+  },
+  "footer": {
+    "about-us": "About us",
+    "quick-links": "Quick Links",
+    "help": "Help",
+    "contact-us": "Contact Us",
+    "internal-programs": "Internal Programs",
+    "external-programs": "External Programs",
+    "my-learning": "My Learning",
+    "news": "News",
+    "faq": "FAQ",
+    "terms-of-use": "Terms of Use",
+    "tel": "Tel",
+    "email": "Email",
+    "address": "Address"
+  },
+  "bread-crumb": {
+    "home": "Home",
+    "news-list": "News List",
+    "my-profile": "My Profile",
+    "faq": "FAQ",
+    "news-details": "News Details",
+    "terms-of-use": "Term of Use"
+  }
+}

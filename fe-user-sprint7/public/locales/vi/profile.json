@@ -1,0 +1,39 @@
+{
+  "my-profile": {
+    "my-profile": "Thông tin cá nhân",
+    "log-out": "Đăng xuất",
+    "personal-information": "Thông tin cá nhân",
+    "your-avatar": "Ảnh đại diện",
+    "full-name": "Họ và Tên",
+    "email-cmc": "E-mail CMC Global",
+    "division": "Khối",
+    "department": "Đơn Vị",
+    "date-of-birth": "Ngày Sinh",
+    "phone-number": "Số Điện Thoại",
+    "site": "Địa điểm làm việc",
+    "position": "Chức danh",
+    "manager-name": "Tên Quản Lý",
+    "manager-email": "E-mail Của Quản Lý",
+    "working-experience": "Kinh Nghiệm Làm Việc",
+    "interested-skills": "Kĩ Năng Hứng Thú",
+    "facebook": "Facebook",
+    "desired-learning-path": "Lộ Trình Học Tập Mong Muốn",
+    "cancel": "Huỷ",
+    "save": "Lưu",
+    "interested-skills-description": "Bạn quan tâm đến kỹ năng nào? (Tối đa: 5 lựa chọn)",
+    "experience": "Kinh nghiệm làm việc",
+    "experience-description": "Kinh nghiệm làm việc"
+  },
+  "account-intro": {
+    "hello": "Xin chào, ",
+    "intro-description": "Giúp chúng tôi cá nhân hóa trải nghiệm của bạn bằng cách cho chúng tôi biết một chút về bản thân bạn.",
+    "experience-description": "Kinh nghiệm làm việc",
+    "interested-skills-description": "Bạn quan tâm đến kỹ năng nào? (Tối đa: 5 lựa chọn)",
+    "skip": "Bỏ qua",
+    "optional": "(Tuỳ chọn)",
+    "desired-learning-path": "Các khoá học mong muốn",
+    "previous": "Trước",
+    "next": "Tiếp",
+    "submit": "Gửi"
+  }
+}

@@ -1,0 +1,32 @@
+.introduction-container {
+  position: relative;
+  background-repeat: no-repeat;
+  background-position: left top;
+  background-size: cover;
+  img {
+    width: 100%;
+    max-height: 100vh;
+  }
+  .introduction-button-container {
+    position: absolute;
+    bottom: 0;
+    left: 5%;
+    padding-bottom: 8rem;
+    .introduction-button {
+      margin: auto 1rem auto 1rem;
+      width: 13rem;
+      height: 5rem;
+      font-size: large;
+      font-weight: 700;
+      // font-family: 'Montserrat';
+    }
+    #introduction-login-button {
+      background-color: #1fbdf8 !important ;
+      color: white;
+    }
+    #introduction-register-button {
+      background-color: white !important;
+      color: #565771;
+    }
+  }
+}

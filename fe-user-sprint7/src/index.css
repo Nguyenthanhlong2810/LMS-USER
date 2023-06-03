@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,500,600,700');
+@import url('https://fonts.googleapis.com/css?family=Inter:400,500,600,700');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  /* font-family: Montserrat, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif; */
+  font-family: IBM Plex Sans, sans-serif, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto,
+    Helvetica Neue, Arial, Noto Sans, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol,
+    Noto Color Emoji;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  overflow-x: hidden;
+  font-size: 16px;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New', monospace;
+}
+
+.slick-prev::before {
+  color: black !important;
+}
+
+.slick-next::before {
+  color: black !important;
+}
+
+@font-face {
+  font-family: 'Udemy Sans';
+  font-style: normal;
+  font-weight: 400; /* To match token @font-weight-normal */
+  font-display: fallback;
+  src: local('Udemy Sans Regular'), local('UdemySans-Regular'),
+    url('/src/assets/fonts/Udemy-Sans-Regular-v1.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'Udemy Sans';
+  font-style: normal;
+  font-weight: 700; /* To match token @font-weight-bold */
+  font-display: fallback;
+  src: local('Udemy Sans Bold'), local('UdemySans-Bold'),
+    url('/src/assets/fonts/Udemy-Sans-Bold-v1.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: SuisseWorks;
+  font-style: normal;
+  font-weight: 700; /* To match token @font-weight-bold */
+  font-display: fallback;
+  src: local('SuisseWorks Bold'), local('SuisseWorks-Bold'),
+    url('/src/assets/fonts/SuisseWorks-Bold-v1.woff2') format('woff2');
+}

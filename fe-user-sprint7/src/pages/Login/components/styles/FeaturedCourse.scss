@@ -1,0 +1,35 @@
+.slide-container{
+    width: 90%;
+    margin:1rem auto auto auto;
+    height: 40rem;
+    h2{
+        margin-left: 25px;
+        margin-bottom: 10px;
+        font-size: 29px;
+        font-weight: 700;
+        line-height: 140%;
+        color: #201b40;
+    }
+    .slider{
+        .slick-prev:before, .slick-next:before{
+            color: #565771;
+            font-size: 40px;
+        }
+        .slick-list{
+            margin-left: 25px;
+        }
+        .slide-item{
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            .card-media{
+                width: 80%;
+                margin: 24px auto auto auto;
+            }
+            .card-content{
+                text-align: center;
+            }
+        }
+    }
+}

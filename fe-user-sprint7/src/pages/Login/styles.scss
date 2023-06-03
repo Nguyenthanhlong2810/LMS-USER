@@ -1,0 +1,92 @@
+.login-form-container {
+  margin: 89px 60px 0px;
+  position: relative;
+  background-size: cover;
+  background-repeat: no-repeat;
+
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+  background-position: center;
+
+  .login-summary {
+    margin: 0 0 5rem 2rem;
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    span:first-child {
+      font-size: 52px;
+    }
+    span:nth-child(2) {
+      font-size: 20px;
+    }
+  }
+
+  .login-form {
+    background-color: #fff;
+    width: 380px;
+    height: 454px;
+    padding: 1.5rem;
+    margin: 5rem 2rem;
+    gap: 25px;
+    border-radius: 7px;
+    align-items: center;
+    .login-inputs {
+      width: 100%;
+    }
+  }
+}
+.welcome-message {
+  background-color: #fff;
+  margin: 0 60px;
+  height: 157px;
+  justify-content: space-evenly;
+  .title {
+    font-weight: 700;
+    font-size: 43px;
+    line-height: 140%;
+    color: #1fbdf8;
+    text-align: center;
+  }
+  .information {
+    font-size: 23.6335px;
+    span {
+      color: #55c763;
+      font-weight: 700;
+      line-height: 140%;
+    }
+  }
+}
+.benefits-for-learner {
+  display: flex;
+  align-items: center;
+  padding-right: 60px;
+  .right-content {
+    padding: 1rem 0;
+    .items {
+      // max-width: 594px;
+    }
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+    .title {
+      font-size: 24px;
+      font-weight: 700;
+      color: #201b40;
+    }
+    .content {
+      font-size: 16px;
+      color: #565771;
+      width: 90%;
+    }
+  }
+  .left-content {
+    position: relative;
+    display: flex;
+    flex: 1;
+    img {
+      width: 100%;
+    }
+  }
+}

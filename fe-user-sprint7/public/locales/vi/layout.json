@@ -1,0 +1,34 @@
+{
+  "header": {
+    "internal-programs": "Chương trình nội bộ",
+    "external-programs": "Chương trình bên ngoài",
+    "my-learning": "Học tập cá nhân",
+    "news": "Tin tức",
+    "my-course": "Kế hoạch của tôi",
+    "learning-history": "Lịch sử học tập",
+    "my-certificate": "Chứng nhận/Chứng chỉ"
+  },
+  "footer": {
+    "about-us": "Về chúng tôi",
+    "quick-links": "Liên kết nhanh",
+    "help": "Trợ giúp",
+    "contact-us": "Liên hệ với chúng tôi",
+    "internal-programs": "Chương trình nội bộ",
+    "external-programs": "Chương trình bên ngoài",
+    "my-learning": "Học tập cá nhân",
+    "news": "Tin tức",
+    "faq": "Câu hỏi thường gặp",
+    "terms-of-use": "Điều khoản sử dụng",
+    "tel": "Điện thoại",
+    "email": "Email",
+    "address": "Địa chỉ"
+  },
+  "bread-crumb": {
+    "home": "Trang chủ",
+    "news-list": "Danh sách tin tức",
+    "my-profile": "Học tập cá nhân",
+    "faq": "Câu hỏi thường gặp",
+    "news-details": "Chi tiết tin tức",
+    "terms-of-use": "Điều khoản sử dụng"
+  }
+}

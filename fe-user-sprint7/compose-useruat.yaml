@@ -1,0 +1,25 @@
+services:
+  fe-user-uat:
+    build: .
+    volumes:
+        - 'db-fe-user-uat:/data/db'
+    ports:
+      - '3003:3003'
+    env_file: .env
+    networks:
+      network:
+        ipv4_address: '${NETWORK_PREFIX}.35'
+    container_name: fe-user-uat
+    hostname: fe-user-uat
+    tty: true
+networks:
+    network:
+        driver: bridge
+        ipam:
+            driver: default
+            config:
+                -   subnet:  ${NETWORK_PREFIX}.0/24
+                    gateway: ${NETWORK_PREFIX}.1
+
+volumes:
+    db-fe-user-uat:

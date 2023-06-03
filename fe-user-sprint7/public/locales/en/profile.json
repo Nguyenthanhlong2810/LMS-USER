@@ -1,0 +1,39 @@
+{
+  "my-profile": {
+    "my-profile": "My Profile",
+    "log-out": "Log out",
+    "personal-information": "Personal Information",
+    "your-avatar": "Your Avatar",
+    "full-name": "Full name",
+    "email-cmc": "E-mail CMC Global",
+    "division": "Division",
+    "department": "Department",
+    "date-of-birth": "Date of Birth",
+    "phone-number": "Phone number",
+    "site": "Site",
+    "position": "Position",
+    "manager-name": "Manager’s Name",
+    "manager-email": "Manager’s E-mail",
+    "working-experience": "Working Experience",
+    "interested-skills": "Interested skills",
+    "facebook": "Facebook",
+    "desired-learning-path": "Desired Learning Path",
+    "cancel": "Cancel",
+    "save": "Save",
+    "interested-skills-description": "What skills are you interested in? (Max : 5 Choices)",
+    "experience": "Experience",
+    "experience-description": "My working experience is"
+  },
+  "account-intro": {
+    "hello": "Hello, ",
+    "intro-description": "Help us personalize your experience by telling us a bit about yourself.",
+    "experience-description": "My working experience is",
+    "interested-skills-description": "What skills are you interested in? (Max : 5 Choices)",
+    "skip": "Skip",
+    "optional": "(Optional)",
+    "desired-learning-path": "Your desired learning path is",
+    "previous": "Previous",
+    "next": "Next",
+    "submit": "Submit"
+  }
+}
